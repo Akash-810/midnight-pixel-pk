@@ -102,6 +102,7 @@ function HeroSection() {
       <div className="hero-copy">
         <p className="eyebrow"><span className="live-dot" /> ONE NIGHT. INFINITE WORLDS.</p>
         <h1 id="hero-title">ENTER THE<br /><span>PIXEL</span> AFTER<br />DARK<span className="title-period">.</span></h1>
+        <p className="hero-status">Now on GitHub</p>
         <p className="hero-description">
           Gaming, digital art, retro arcade, and live music collide for one unforgettable night in Neon City.
         </p>
