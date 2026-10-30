@@ -137,6 +137,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .live-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--blue); box-shadow: 0 0 12px var(--blue); }
 .hero h1 { margin: 25px 0 20px; font-size: clamp(58px, 7.25vw, 100px); font-weight: 900; line-height: .89; letter-spacing: -.08em; }
 .hero h1 > span:first-of-type { color: var(--purple); text-shadow: 0 0 42px rgba(167,121,255,.34); }
+.hero-status { width: fit-content; margin: -7px 0 14px; color: var(--blue); font-family: 'Courier New', monospace; font-size: 11px; font-weight: 700; letter-spacing: .06em; text-shadow: 0 0 14px rgba(88,215,255,.3); }
 .title-period { color: var(--blue); }
 .hero-description { max-width: 390px; margin: 0; color: #aaa6b8; font-size: 14px; line-height: 1.8; }
 .hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 24px; margin-top: 27px; }
